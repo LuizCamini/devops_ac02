@@ -68,6 +68,24 @@ executado o git log para mostrar detalhes sobre commits executados e dados de us
 executado o comando git merge onde o mesmo apresentou que os arquivos estao prontos;
 executado o comando checkout e o mesmo mostrou o arquivo readme.md
 
+#print20.png:  
+apos adicionar as demais imagens prints e editado o arquivo readme.md na pasta foi executado o comando git status onde mostra o status dos arquivos disponiveis para o proximo passo em vermelho aguardando o git add para adicionalos a staging
+
+#print21.png:  
+apos executado o comando "git add ." com o git status foi possivel identificar que somente os novos arquivos e o readme modificado foram disponibilizados na staging
+
+#print22.png:  
+executado o git commit adicionando os arquivos onde os mesmos aguardam o push para subir para o repositorio remoto;
+
+#print23.png:  
+executado o git push e arquivos disponibilizados no repositorio remoto;
+
+#print24.png:  
+imagem demonstra os novos arquivos que subiram para o repositorio remoto apos o git push
+
+#print25.png:  
+imagem apresenta uma visao grafica e linha do tempo da branch master onde foram feitos os commits.
+
 
 
 
